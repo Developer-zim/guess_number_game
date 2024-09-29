@@ -1,0 +1,8 @@
+# No external packages are required for this game as Tkinter comes pre-installed with Python.
+# However, if you want to ensure Tkinter is installed, you can include it in the comments.
+
+# Tkinter is included with standard Python installations.
+# If you are using Python 3, Tkinter is included by default.
+
+# If you have other dependencies in the future, you can list them here:
+# e.g., requests==2.25.1
